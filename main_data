@@ -1,280 +1,52 @@
-{
-  "horizontal": [
-    {
-      "imageone": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hexa%20Dungeon.png?raw=true",
-      "nameone": "Hexa Dungeon",
-      "playone": "https://gamesnacks.com/embed/games/hexadungeon"
-    },
-    {
-      "imagetwo": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Road%20Stamped.png?raw=true",
-      "nametwo": "Road Stamped",
-      "playtwo": "https://gamesnacks.com/embed/games/rodeostampede"
-    },
-    {
-      "imagethree": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Cannon%20Balls%203d.png?raw=true",
-      "namethree": "Cannon Balls 3d",
-      "playthree": "https://gamesnacks.com/embed/games/cannonballs3d"
-    },
-    {
-      "imagefour": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Stack%20Bounce.png?raw=true",
-      "namefour": "Stack Bounce",
-      "playfour": "https://gamesnacks.com/embed/games/stackbounce"
-    },
-    {
-      "imagefive": "https://raw.githubusercontent.com/hardikyo/Demo/main/Game%20Poster/Pin%20The%20UFO.png",
-      "namefive": "Pin The UFO",
-      "playfive": "https://gamesnacks.com/embed/games/pintheufo"
-    },
-    {
-      "imagesix": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Zoo%20Boom.png?raw=true",
-      "namesix": "Zoo Boom",
-      "playsix": "https://gamesnacks.com/embed/games/zooboom"
-    },
-    {
-      "imageseven": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Game%20Nine%2099Balls.png?raw=true",
-      "nameseven": "99Balls3D",
-      "playseven": "https://gamesnacks.com/embed/games/99balls3d"
-    },
-    {
-      "imageeight": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Crazy%20Caves.png?raw=true",
-      "nameeight": "Crazy Caves",
-      "playeight": "https://gamesnacks.com/embed/games/crazycaves"
-    },
-    {
-      "imagenine": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/BattleShip.png?raw=true",
-      "namenine": "BattleSHip",
-      "playnine": "https://gamesnacks.com/embed/games/battleship"
-    },
-    {
-      "imageten": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hop%20Maina.png?raw=true",
-      "nameten": "Hop Maina",
-      "playten": "https://gamesnacks.com/embed/games/onehopsodapop"
-    },
-    {
-      "imageeleven": "Green",
-      "nameeleven": "static game name",
-      "playeleven": "link"
-    },
-    {
-      "imagetwelve": "Green",
-      "nametwelve": "static game name",
-      "playtwelve": "link"
-    },
-    {
-      "imagethirteen": "Green",
-      "namethirteen": "static game name",
-      "playthirteen": "link"
-    },
-    {
-      "imagefourteen": "Green",
-      "namefourteen": "static game name",
-      "playfourteen": "link"
-    },
-    {
-      "imagefifteen": "Green",
-      "namefifteen": "static game name",
-      "playfifteen": "link"
-    },
-    {
-      "imagesixteen": "Green",
-      "namesixteen": "static game name",
-      "playsixteen": "link"
-    },
-    {
-      "imageseventeen": "Green",
-      "nameseventeen": "static game name",
-      "playseventeen": "link"
-    },
-    {
-      "imageeighteen": "Green",
-      "nameeighteen": "static game name",
-      "playeighteen": "link"
-    },
-    {
-      "imagenineteen": "Green",
-      "namenineteen": "static game name",
-      "playnineteen": "link"
-    },
-    {
-      "imagetwenty": "Green",
-      "nametwenty": "static game name",
-      "playtwenty": "link"
-    },
-    {
-      "imagetwentyone": "Green",
-      "nametwentyone": "static game name",
-      "playtwentyone": "link"
-    },
+[
+  {
+    "imageone": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hexa%20Dungeon.png?raw=true",
+    "nameone": "Hexa Dungeon",
+    "playone": "https://gamesnacks.com/embed/games/hexadungeon"
+  },
+  {
+    "imagetwo": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Road%20Stamped.png?raw=true",
+    "nametwo": "Road Stamped",
+    "playtwo": "https://gamesnacks.com/embed/games/rodeostampede"
+  },
+  {
+    "imagethree": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Cannon%20Balls%203d.png?raw=true",
+    "namethree": "Cannon Balls 3d",
+    "playthree": "https://gamesnacks.com/embed/games/cannonballs3d"
+  },
+  {
+    "imagefour": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Stack%20Bounce.png?raw=true",
+    "namefour": "Stack Bounce",
+    "playfour": "https://gamesnacks.com/embed/games/stackbounce"
+  },
+  {
+    "imagefive": "https://raw.githubusercontent.com/hardikyo/Demo/main/Game%20Poster/Pin%20The%20UFO.png",
+    "namefive": "Pin The UFO",
+    "playfive": "https://gamesnacks.com/embed/games/pintheufo"
+  },
+  {
+    "imagesix": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Zoo%20Boom.png?raw=true",
+    "namesix": "Zoo Boom",
+    "playsix": "https://gamesnacks.com/embed/games/zooboom"
+  },
+  {
+    "imageseven": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Game%20Nine%2099Balls.png?raw=true",
+    "nameseven": "99Balls3D",
+    "playseven": "https://gamesnacks.com/embed/games/99balls3d"
+  },
+  {
+    "imageeight": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Crazy%20Caves.png?raw=true",
+    "nameeight": "Crazy Caves",
+    "playeight": "https://gamesnacks.com/embed/games/crazycaves"
+  },
+  {
+    "imagenine": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/BattleShip.png?raw=true",
+    "namenine": "BattleSHip",
+    "playnine": "https://gamesnacks.com/embed/games/battleship"
+  },
+  {
+    "imageten": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hop%20Maina.png?raw=true",
+    "nameten": "Hop Maina",
     
-  ],
-  "verticalthree": [
-    {
-      "imageone": "Green",
-      "nameone": "static game name",
-      "playone": "link"
-    },
-    {
-      "imagetwo": "Green",
-      "nametwo": "static game name",
-      "playtwo": "link"
-    },
-    {
-      "imagethree": "Green",
-      "namethree": "static game name",
-      "playthree": "link"
-    }
-  ],
-  "MiniGameList": [
-    {
-      "imageone": "Green",
-      "nameone": "static game name",
-      "playone": "link"
-    },
-    {
-      "imagetwo": "Green",
-      "nametwo": "static game name",
-      "playtwo": "link"
-    },
-    {
-      "imagethree": "Green",
-      "namethree": "static game name",
-      "playthree": "link"
-    },
-    {
-      "imagefour": "Green",
-      "namefour": "static game name",
-      "playfour": "link"
-    },
-    {
-      "imagefive": "Green",
-      "namefive": "static game name",
-      "playfive": "link"
-    },
-    {
-      "imagesix": "Green",
-      "namesix": "static game name",
-      "playsix": "link"
-    },
-    {
-      "imageseven": "Green",
-      "nameseven": "static game name",
-      "playseven": "link"
-    },
-    {
-      "imageeight": "Green",
-      "nameeight": "static game name",
-      "playeight": "link"
-    },
-    {
-      "imagenine": "Green",
-      "namenine": "static game name",
-      "playnine": "link"
-    },
-    {
-      "imageten": "Green",
-      "nameten": "static game name",
-      "playten": "link"
-    },
-    {
-      "imageeleven": "Green",
-      "nameeleven": "static game name",
-      "playeleven": "link"
-    },
-    {
-      "imagetwelve": "Green",
-      "nametwelve": "static game name",
-      "playtwelve": "link"
-    },
-    {
-      "imagethirteen": "Green",
-      "namethirteen": "static game name",
-      "playthirteen": "link"
-    },
-    {
-      "imagefourteen": "Green",
-      "namefourteen": "static game name",
-      "playfourteen": "link"
-    },
-    {
-      "imagefifteen": "Green",
-      "namefifteen": "static game name",
-      "playfifteen": "link"
-    },
-    {
-      "imagesixteen": "Green",
-      "namesixteen": "static game name",
-      "playsixteen": "link"
-    },
-    {
-      "imageseventeen": "Green",
-      "nameseventeen": "static game name",
-      "playseventeen": "link"
-    },
-    {
-      "imageeighteen": "Green",
-      "nameeighteen": "static game name",
-      "playeighteen": "link"
-    },
-    {
-      "imagenineteen": "Green",
-      "namenineteen": "static game name",
-      "playnineteen": "link"
-    },
-    {
-      "imagetwenty": "Green",
-      "nametwenty": "static game name",
-      "playtwenty": "link"
-    },
-    {
-      "imagetwentyone": "Green",
-      "nametwentyone": "static game name",
-      "playtwentyone": "link"
-    },
-    {
-      "imagetwentytwo": "Green",
-      "nametwentytwo": "static game name",
-      "playtwentytwo": "link"
-    },
-    {
-      "imagetwentythree": "Green",
-      "nametwentythree": "static game name",
-      "playtwentythree": "link"
-    },
-    {
-      "imagetwentyfour": "Green",
-      "nametwentyfour": "static game name",
-      "playtwentyfour": "link"
-    },
-    {
-      "imagetwentyfive": "Green",
-      "nametwentyfive": "static game name",
-      "playtwentyfive": "link"
-    },
-    {
-      "imagetwentysix": "Green",
-      "nametwentysix": "static game name",
-      "playtwentysix": "link"
-    },
-    {
-      "imagetwentyseven": "Green",
-      "nametwentyseven": "static game name",
-      "playtwentyseven": "link"
-    },
-    {
-      "imagetwentyeight": "Green",
-      "nametwentyeight": "static game name",
-      "playtwentyeight": "link"
-    },
-    {
-      "imagetwentynine": "Green",
-      "nametwentynine": "static game name",
-      "playtwentynine": "link"
-    },
-    {
-      "imagethirty": "Green",
-      "namethirty": "static game name",
-      "playthirty": "link"
-    },
-    
-  ]
-}
+  }
+]
