@@ -1,7 +1,7 @@
 [
   {
-    "GAME__ONE": {
-      "IMAGEONE": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hexa%20Dungeon.png?raw=true",
+    "POSTEROBJECT": {
+      "POSTERKEY": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hexa%20Dungeon.png?raw=true",
       "NAMEONE": "Hexa Dungeon",
       "PLAYONE": "https://gamesnacks.com/embed/games/hexadungeon"
     },
