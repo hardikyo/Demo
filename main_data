@@ -1,10 +1,6 @@
 [
   {
-    "POSTEROBJECT": {
-      "POSTERKEY": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hexa%20Dungeon.png?raw=true",
-      "NAMEONE": "Hexa Dungeon",
-      "PLAYONE": "https://gamesnacks.com/embed/games/hexadungeon"
-    },
+    "POSTEROBJECT": { "POSTERKEY": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hexa%20Dungeon.png?raw=true", "NAMEONE": "Hexa Dungeon","PLAYONE": "https://gamesnacks.com/embed/games/hexadungeon" },
     "GAME__TWO": {
       "IMAGETWO": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Road%20Stamped.png?raw=true",
       "NAMETWO": "Road Stamped",
