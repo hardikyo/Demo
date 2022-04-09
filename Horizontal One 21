@@ -3,25 +3,25 @@
     "albumId": 1,
     "id": 1,
     "title": "Hexa Dungeon",
-    "url1": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hexa%20Dungeon.png?raw=true"
+    "urll": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hexa%20Dungeon.png?raw=true"
   },
   {
     "albumId": 1,
     "id": 2,
     "title": "Road Stamped",
-    "url2": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Road%20Stamped.png?raw=true"
+    "urltwo": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Road%20Stamped.png?raw=true"
   },
   {
     "albumId": 1,
     "id": 3,
     "title": "Cannon Balls 3d",
-    "url3": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Cannon%20Balls%203d.png?raw=true"
+    "urlthree": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Cannon%20Balls%203d.png?raw=true"
   },
   {
     "albumId": 1,
     "id": 4,
     "title": "Stack Bounce",
-    "url4": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Stack%20Bounce.png?raw=true"
+    "urlfour": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Stack%20Bounce.png?raw=true"
   },
   {
     "albumId": 1,
