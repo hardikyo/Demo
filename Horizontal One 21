@@ -1,62 +1,64 @@
 [
   {
-    "albumId": 1,
-    "id": 1,
-    "title": "Hexa Dungeon",
-    "urll": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hexa%20Dungeon.png?raw=true"
-  },
-  {
-    "albumId": 1,
-    "id": 2,
-    "title": "Road Stamped",
-    "urlt": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Road%20Stamped.png?raw=true"
-  },
-  {
-    "albumId": 1,
-    "id": 3,
-    "title": "Cannon Balls 3d",
-    "urltt": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Cannon%20Balls%203d.png?raw=true"
-  },
-  {
-    "albumId": 1,
-    "id": 4,
-    "title": "Stack Bounce",
-    "urlfour": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Stack%20Bounce.png?raw=true"
-  },
-  {
-    "albumId": 1,
-    "id": 5,
-    "title": "Pin The UFO",
-    "imagefive": "https://raw.githubusercontent.com/hardikyo/Demo/main/Game%20Poster/Pin%20The%20UFO.png"
-  },
-  {
-    "albumId": 1,
-    "id": 6,
-    "title": "Zoo Boom",
-    "imagesix": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Zoo%20Boom.png?raw=true"
-  },
-  {
-    "albumId": 1,
-    "id": 7,
-    "title": "99Balls 3D",
-    "imageseven": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Game%20Nine%2099Balls.png?raw=true"
-  },
-  {
-    "albumId": 1,
-    "id": 8,
-    "title": "Crazy Caves",
-    "imageeight": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Crazy%20Caves.png?raw=true"
-  },
-  {
-    "albumId": 1,
-    "id": 9,
-    "title": "BattleShip",
-    "imagenine": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/BattleShip.png?raw=true"
-  },
-  {
-    "albumId": 1,
-    "id": 10,
-    "title": "Hop Maina",
-    "imageten": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hop%20Maina.png?raw=true"
-  },
-  ]
+   "albumId": {
+      "albumId": 1,
+      "id": 1,
+      "title": "Hexa Dungeon",
+      "urll": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hexa%20Dungeon.png?raw=true"
+    },
+   "albumIdtwo": {
+      "albumId": 1,
+      "id": 2,
+      "title": "Road Stamped",
+      "urlt": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Road%20Stamped.png?raw=true"
+    },
+    "albumIdthree": {
+      "albumId": 1,
+      "id": 3,
+      "title": "Cannon Balls 3d",
+      "urltt": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Cannon%20Balls%203d.png?raw=true"
+    },
+    "albumIdfour": {
+      "albumId": 1,
+      "id": 4,
+      "title": "Stack Bounce",
+      "urlfour": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Stack%20Bounce.png?raw=true"
+    },
+    "albumIdfive": {
+      "albumId": 1,
+      "id": 5,
+      "title": "Pin The UFO",
+      "imagefive": "https://raw.githubusercontent.com/hardikyo/Demo/main/Game%20Poster/Pin%20The%20UFO.png"
+    },
+    "albumIdsix": {
+      "albumId": 1,
+      "id": 6,
+      "title": "Zoo Boom",
+      "imagesix": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Zoo%20Boom.png?raw=true"
+    },
+    "albumIdseven": {
+      "albumId": 1,
+      "id": 7,
+      "title": "99Balls 3D",
+      "imageseven": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Game%20Nine%2099Balls.png?raw=true"
+    },
+    "albumIdeight": {
+      "albumId": 1,
+      "id": 8,
+      "title": "Crazy Caves",
+      "imageeight": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Crazy%20Caves.png?raw=true"
+    },
+    "albumIdnine": {
+      "albumId": 1,
+      "id": 9,
+      "title": "BattleShip",
+      "imagenine": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/BattleShip.png?raw=true"
+    },
+    "albumIdten": {
+      "albumId": 1,
+      "id": 10,
+      "title": "Hop Maina",
+      "imageten": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hop%20Maina.png?raw=true"
+    }
+  }
+]
