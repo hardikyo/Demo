@@ -9,13 +9,13 @@
     "albumId": 1,
     "id": 2,
     "title": "Road Stamped",
-    "urltwo": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Road%20Stamped.png?raw=true"
+    "urlt": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Road%20Stamped.png?raw=true"
   },
   {
     "albumId": 1,
     "id": 3,
     "title": "Cannon Balls 3d",
-    "urlthree": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Cannon%20Balls%203d.png?raw=true"
+    "urltt": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Cannon%20Balls%203d.png?raw=true"
   },
   {
     "albumId": 1,
