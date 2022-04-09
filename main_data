@@ -1,52 +1,55 @@
 [
   {
-    "imageone": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hexa%20Dungeon.png?raw=true",
-    "nameone": "Hexa Dungeon",
-    "playone": "https://gamesnacks.com/embed/games/hexadungeon"
-  },
-  {
-    "imagetwo": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Road%20Stamped.png?raw=true",
-    "nametwo": "Road Stamped",
-    "playtwo": "https://gamesnacks.com/embed/games/rodeostampede"
-  },
-  {
-    "imagethree": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Cannon%20Balls%203d.png?raw=true",
-    "namethree": "Cannon Balls 3d",
-    "playthree": "https://gamesnacks.com/embed/games/cannonballs3d"
-  },
-  {
-    "imagefour": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Stack%20Bounce.png?raw=true",
-    "namefour": "Stack Bounce",
-    "playfour": "https://gamesnacks.com/embed/games/stackbounce"
-  },
-  {
-    "imagefive": "https://raw.githubusercontent.com/hardikyo/Demo/main/Game%20Poster/Pin%20The%20UFO.png",
-    "namefive": "Pin The UFO",
-    "playfive": "https://gamesnacks.com/embed/games/pintheufo"
-  },
-  {
-    "imagesix": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Zoo%20Boom.png?raw=true",
-    "namesix": "Zoo Boom",
-    "playsix": "https://gamesnacks.com/embed/games/zooboom"
-  },
-  {
-    "imageseven": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Game%20Nine%2099Balls.png?raw=true",
-    "nameseven": "99Balls3D",
-    "playseven": "https://gamesnacks.com/embed/games/99balls3d"
-  },
-  {
-    "imageeight": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Crazy%20Caves.png?raw=true",
-    "nameeight": "Crazy Caves",
-    "playeight": "https://gamesnacks.com/embed/games/crazycaves"
-  },
-  {
-    "imagenine": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/BattleShip.png?raw=true",
-    "namenine": "BattleSHip",
-    "playnine": "https://gamesnacks.com/embed/games/battleship"
-  },
-  {
-    "imageten": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hop%20Maina.png?raw=true",
-    "nameten": "Hop Maina",
+    "GAME__ONE": {
+      "IMAGEONE": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hexa%20Dungeon.png?raw=true",
+      "NAMEONE": "Hexa Dungeon",
+      "PLAYONE": "https://gamesnacks.com/embed/games/hexadungeon"
+    },
+    "GAME__TWO": {
+      "IMAGETWO": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Road%20Stamped.png?raw=true",
+      "NAMETWO": "Road Stamped",
+      "PLAYTWO": "https://gamesnacks.com/embed/games/hexadungeon"
+    },
+    "GAME__THREE": {
+      "IMAGETHREE": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Cannon%20Balls%203d.png?raw=true",
+      "NAMETHREE": "Cannon Balls 3d",
+      "PLAYTHREE": "https://gamesnacks.com/embed/games/cannonballs3d"
+    },
+    "GAME__FOUR": {
+      "IMAGEFOUR": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Stack%20Bounce.png?raw=true",
+      "NAMEFOUR": "Stack Bounce",
+      "PLAYFOUR": "https://gamesnacks.com/embed/games/stackbounce"
+    },
+    "GAME__FIVE": {
+      "IMAGEFIVE": "https://raw.githubusercontent.com/hardikyo/Demo/main/Game%20Poster/Pin%20The%20UFO.png",
+      "NAMEFIVE": "Pin The UFO",
+      "PLAYFIVE": "https://gamesnacks.com/embed/games/pintheufo"
+    },
+    "GAME__SIX": {
+      "IMAGESIX": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Zoo%20Boom.png?raw=true",
+      "NAMESIX": "Zoo Boom",
+      "PLAYSIX": "https://gamesnacks.com/embed/games/zooboom"
+    },
+    "GAME__SEVEN": {
+      "IMAGESEVEN": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Game%20Nine%2099Balls.png?raw=true",
+      "NAMESEVEN": "99Balls 3D",
+      "PLAYSEVEN": "https://gamesnacks.com/embed/games/99balls3d"
+    },
+    "GAME__EIGHT": {
+      "IMAGEEIGHT": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Crazy%20Caves.png?raw=true",
+      "NAMEEIGHT": "Crazy Caves",
+      "PLAYEIGHT": "https://gamesnacks.com/embed/games/crazycaves"
+    },
+    "GAME__NINE": {
+      "IMAGENINE": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/BattleShip.png?raw=true",
+      "NAMENINE": "Battle Ship",
+      "PLAYNINE": "https://gamesnacks.com/embed/games/battleship"
+    },
+    "GAME__TEN": {
+      "IMAGETEN": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hop%20Maina.png?raw=true",
+      "NAMETEN": "Hop Maina",
+      "PLAYTEN": "PLAY_LINK"
+    },
     
   }
 ]
