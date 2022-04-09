@@ -1,0 +1,149 @@
+[
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "Hexa Dungeon",
+    "imageone": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hexa%20Dungeon.png?raw=true",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "Road Stamped",
+    "imagetwo": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Road%20Stamped.png?raw=true",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "Cannon Balls 3d",
+    "imagethree": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Cannon%20Balls%203d.png?raw=true",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "Stack Bounce",
+    "imagefour": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Stack%20Bounce.png?raw=true",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "Pin The UFO"",
+    "imagefive": "https://raw.githubusercontent.com/hardikyo/Demo/main/Game%20Poster/Pin%20The%20UFO.png",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "Zoo Boom",
+    "imagesix": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Zoo%20Boom.png?raw=true",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "99Balls 3D",
+    "imageseven": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Game%20Nine%2099Balls.png?raw=true",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 8,
+    "title": "Crazy Caves",
+    "imageeight": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Crazy%20Caves.png?raw=true",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 9,
+    "title": "BattleShip",
+    "imagenine": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/BattleShip.png?raw=true",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 10,
+    "title": "Hop Maina",
+    "imageten": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hop%20Maina.png?raw=true",
+    "thumbnailUrl": ""
+  },
+  {
+    "albumId": 1,
+    "id": 11,
+    "title": "nihil at amet non hic quia qui",
+    "imageelevan": "11ee8a4",
+    "thumbnailUrl": "https://via.placeholder.com/150/1ee8a4"
+  },
+  {
+    "albumId": 1,
+    "id": 12,
+    "title": "reprehenderit est deserunt velit ipsam",
+    "imagetwelve": "1771796",
+    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+  },
+  {
+    "albumId": 1,
+    "id": 13,
+    "title": "officia porro iure quia iusto qui ipsa ut modi",
+    "imagethirteen": "124f355",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+  {
+    "albumId": 1,
+    "id": 14,
+    "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+    "imagefourteen": "1d32776",
+    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+  },
+  {
+    "albumId": 1,
+    "id": 15,
+    "title": "natus nisi omnis corporis facere molestiae rerum in",
+    "imagefifteen": "1f66b97",
+    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+  },
+  {
+    "albumId": 1,
+    "id": 16,
+    "title": "accusamus ea aliquid et amet sequi nemo",
+    "imagesixteen": "156a8c2",
+    "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+  },
+  {
+    "albumId": 1,
+    "id": 17,
+    "title": "officia delectus consequatur vero aut veniam explicabo molestias",
+    "imageseventeen": "1b0f7cc",
+    "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
+  },
+  {
+    "albumId": 1,
+    "id": 18,
+    "title": "aut porro officiis laborum odit ea laudantium corporis",
+    "imageeighteen": "154176f",
+    "thumbnailUrl": "https://via.placeholder.com/150/54176f"
+  },
+  {
+    "albumId": 1,
+    "id": 19,
+    "title": "qui eius qui autem sed",
+    "imageninteen": "151aa97",
+    "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
+  },
+  {
+    "albumId": 1,
+    "id": 20,
+    "title": "beatae et provident et ut vel",
+    "imagetwenty": "1810b14",
+    "thumbnailUrl": "https://via.placeholder.com/150/810b14"
+  },
+  {
+    "albumId": 1,
+    "id": 21,
+    "title": "nihil at amet non hic quia qui",
+    "imagetwentyone": "11ee8a4",
+    "thumbnailUrl": "https://via.placeholder.com/150/1ee8a4"
+  }
+  ]
