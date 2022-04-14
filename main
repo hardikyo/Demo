@@ -3,9 +3,6 @@
     "IMAGE_ONE": {
       "IMAGE_ONE": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Hexa%20Dungeon.png?raw=true"
     },
-    "GIF_ONE": {
-      "GIF_ONE": "https://github.com/hardikyo/Demo/blob/main/GAME%20POSTER%20GIF/Hexa%20Dungeon%20GIF.gif?raw=true"
-    },
     "NAME_ONE": {
       "NAME_ONE": "Hexa Dungeon"
     },
@@ -96,8 +93,8 @@
     "IMAGE_ELEVEN": {
       "IMAGE_ELEVEN": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/Arctic%20Ping%20PNG.png?raw=true"
     },
-    "NAME_ELEVEN": {
-      "NAME_ELEVEN": "Arctic Pong"
+    "NAME_ELEVAN": {
+      "NAME_ELEVAN": "Arctic Pong"
     },
     "PLAY_ELEVEN": {
       "PLAY_ELEVEN": "https://gamesnacks.com/embed/games/arcticpong"
