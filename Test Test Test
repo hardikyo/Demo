@@ -98,6 +98,87 @@
     },
     "PLAY_ELEVEN": {
       "PLAY_ELEVEN": "https://gamesnacks.com/embed/games/jewelacademy"
+    },
+    "IMAGE_TWELVE": {
+      "IMAGE_TWELVE": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/full%20speed%20racing.png?raw=true"
+    },
+    "NAME_TWELVE": {
+      "NAME_TWELVE": "Full Speed Racing"
+    },
+    "PLAY_TWELVE": {
+      "PLAY_TWELVE": "https://gamesnacks.com/embed/games/fullspeedracing"
+    },
+    "IMAGE_THIRTEEN": {
+      "IMAGE_THIRTEEN": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/scooter%20xtream.png?raw=true"
+    },
+    "NAME_THIRTEEN": {
+      "NAME_THIRTEEN": "Scooter Xtreme"
+    },
+    "PLAY_THIRTEEN": {
+      "PLAY_THIRTEEN": "https://gamesnacks.com/embed/games/scooterxtreme"
+    },
+    "IMAGE_FOURTEEN": {
+      "IMAGE_FOURTEEN": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/truck%20trails.png?raw=true"
+    },
+    "NAME_FOURTEEN": {
+      "NAME_FOURTEENFOURTEEN": " Truck Trials"
+    },
+    "PLAY_FOURTEEN": {
+      "PLAY_FOURTEEN": "https://gamesnacks.com/embed/games/trucktrials"
+    },
+    "IMAGE_FIFTEEN": {
+      "IMAGE_FIFTEEN": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/road%20furey.png?raw=true"
+    },
+    "NAME_FIFTEEN": {
+      "NAME_FIFTEEN": "Road Fury"
+    },
+    "PLAY_FIFTEEN": {
+      "PLAY_FIFTEEN": "https://gamesnacks.com/embed/games/roadfury"
+    },
+    "IMAGE_SIXTEEN": {
+      "IMAGE_SIXTEEN": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/retro%20drift.png?raw=true"
+    },
+    "NAME_SIXTEEN": {
+      "NAME_SIXTEEN": "Retro Drift"
+    },
+    "PLAY_SIXTEEN": {
+      "PLAY_SIXTEEN": "https://gamesnacks.com/embed/games/retrodrift"
+    },
+    "IMAGE_SEVENTEEN": {
+      "IMAGE_SEVENTEEN": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/rocket%20road.png?raw=true"
+    },
+    "NAME_SEVENTEEN": {
+      "NAME_SEVENTEEN": "Aktest Rocket Road"
+    },
+    "PLAY_SEVENTEEN": {
+      "PLAY_SEVENTEEN": "https://gamesnacks.com/embed/games/aktestrocketroad"
+    },
+    "IMAGE_EIGHTEEN": {
+      "IMAGE_EIGHTEEN": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/daily%20solitarir.png?raw=true"
+    },
+    "NAME_EIGHTEEN": {
+      "NAME_EIGHTEEN": "Daily Solitaire"
+    },
+    "PLAY_EIGHTEEN": {
+      "PLAY_EIGHTEEN": "https://gamesnacks.com/embed/games/dailysolitaire"
+    },
+    "IMAGE_NINETEEN": {
+      "IMAGE_NINETEEN": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/balls%203d.png?raw=true"
+    },
+    "NAME_NINETEEN": {
+      "NAME_NINETEEN": "99 Balls 3D"
+    },
+    "PLAY_NINETEEN": {
+      "PLAY_NINETEEN": "https://gamesnacks.com/embed/games/99balls3d"
+    },
+    "IMAGE_TWENTY": {
+      "IMAGE_TWENTY": "https://github.com/hardikyo/Demo/blob/main/Game%20Poster/pocket%20battle%20royal.png?raw=true"
+    },
+    "NAME_TWENTY": {
+      "NAME_TWENTY": "Pocket Battle Royale"
+    },
+    "PLAY_TWENTY": {
+      "PLAY_TWENTY": "https://gamesnacks.com/embed/games/pocketbattleroyale"
     }
   }
 ]
